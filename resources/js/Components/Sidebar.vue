@@ -52,7 +52,7 @@ const navigation = computed(() => [
     },
     {
         name: "Wishlist",
-        href: "#",
+        href: "javascript:void(0)",
         RName: "#",
         icon: BuildingStorefrontIcon,
         current: false,
